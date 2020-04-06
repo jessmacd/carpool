@@ -1,3 +1,18 @@
+# carpool
+
+Carpool planning made easy!
+
+This works together with a front-end application, carpool-magic. Install both for a fully functional, easy to use way to plan out your carpool trips.
+
+#### Installation Instructions:
+1. git clone  https://github.com/jessmacd/carpool.git
+2. Create a copy of the .env.example file as .env
+ - cp .env.example .env
+3. Launching it using docker will create a container for the database as well as the application
+ - cd carpool
+ - docker-compose up 
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
